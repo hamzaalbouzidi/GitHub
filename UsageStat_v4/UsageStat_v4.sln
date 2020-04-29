@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "STG_UsageStat", "STG_UsageStat\STG_UsageStat.dtproj", "{16F2605B-02A0-430A-9720-7841CEEB592A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F2605B-02A0-430A-9720-7841CEEB592A}.Azure|Default.ActiveCfg = Azure
+		{16F2605B-02A0-430A-9720-7841CEEB592A}.Azure|Default.Build.0 = Azure
+		{16F2605B-02A0-430A-9720-7841CEEB592A}.Development|Default.ActiveCfg = Development
+		{16F2605B-02A0-430A-9720-7841CEEB592A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F440DE9-E383-4453-A1F7-AC8BE33B02BC}
+	EndGlobalSection
+EndGlobal
